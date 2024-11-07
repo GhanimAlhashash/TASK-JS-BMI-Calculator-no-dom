@@ -1,7 +1,7 @@
 /**
  * Calculate BMI
  * - takes a weight in KG
- * - takes a height in cm
+ * - takes a height in cm hi
  * - returns the calculated BMI
  */
 function calculateBMI(weight, height) {
